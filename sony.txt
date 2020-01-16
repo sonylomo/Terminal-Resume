@@ -1,0 +1,18 @@
+<span id="a">sony@Onyimbo</span>:<span id="b">~</span><span id="c">$</span> cd SonyOnyimbo/<!-- laglaglaglaglaglag -->About_Me
+<!--<span id="a">sony@Onyimbo</span>:<span id="b">~</span><span id="c">$</span> cat laglaglaglaglaglaglaglaglag --><!--[your-name].txt--><br/><br/>
+My favorite code quote, "<span id="k">There's no limit to who I'm becoming.</span>" <!-- sjkfhskjf -->
+
+<p>Hi, I'm Miss. Sonia Onyimbo</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<!--<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p> delaydelaydelaydelaydelaydelaydelay -->
+<p>A Software Developer,<a href="link"> Github</a>.</p> <!--delaydelaydelaydelaydelaydelaydelay -->
+<p>A Student at<a href="link"> JKUAT</a>.</p>
+<p>I also love playing <a href="link"> Chess </a> and playing <a href="link"> acoustic guitar </a>.</p>
+<p>More about me can be found here: <br><br><br><!--Give your project links or something like that. --><a href="link"> my website</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<br>My Twitter handle: <a href="link2">@sonylomo</a><br> 
+
+Email Address:<!-- slightdelayhere--><a href="mailto: onyimbo.sonia@students.jkuat.co.ke"> onyimbo.sonia@students.jkuat.co.ke</a>.
+
+<p>Thanks for visiting.</p><br>
+<span id="a">sony@Onyimbo</span>:<span id="b">~</span><span id="c">$</span> exit
+    <script type="text/javascript" src="index.js"> 
+    </script> 
