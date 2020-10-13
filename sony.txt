@@ -1,20 +1,21 @@
-<span id="a">sony@Onyimbo</span>:<span id="b">~</span><span id="c">$</span> cd SonyOnyimbo/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">sony@Lomo</span>:<span id="b">~</span><span id="c">$</span> cd SonyLomo/<!-- laglaglaglaglaglag -->About_Me
 
 
 <p>My favorite code quote, <span id="k">"There's no limit to who I'm becoming."</span></p> <!-- sjkfhskjf -->
 
-<p>Hi, I'm Miss. Sonia Onyimbo</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><!--delaydelaydelaydelaydelaydelaydelay -->
-<p>A Software Developer, <a href="#!">Github</a>.</p><!--delaydelaydelaydelaydelaydelaydelay -->
-<p>A Student at <a href="#!">JKUAT</a>.</p>
+<p>Hi, I'm Sonia Lomo</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><!--delaydelaydelaydelaydelaydelaydelay -->
+<p>A Software Developer, you can check out some of my work here: <a href="https://github.com/sonylomo">Github</a>.</p><!--delaydelaydelaydelaydelaydelaydelay -->
+<p>A Student at <a href="http://www.jkuat.ac.ke/">JKUAT</a> doing BSc.Computer Science.</p>
+<p>I've been writing too. You can get my pieces here: <a href="https://dev.to/sony_lomo">Awesome Posts</a> 😌</p>
 <p>I also love playing <a href="#!">chess</a> and playing <a href="#!">acoustic guitar</a>.</p>
 
-<p>More about me can be found here: <a href="#!">My Website</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p>My Twitter handle: <a href="#!">@sonylomo</a></p> 
-Email Address:<!-- slightdelayhere--><a href="mailto: onyimbo.sonia@students.jkuat.co.ke"> onyimbo.sonia@students.jkuat.co.ke</a>.
+<p>More about me on<a href="https://www.linkedin.com/in/sonia-lomo/"> LinkedIn</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>Feel free to stalk me on Twitter 😉 <a href="https://twitter.com/sony_lomo">@sony_lomo</a></p> 
+Email Address:<!-- slightdelayhere--><a href="mailto: sonylomo1@gmail.com"> sonylomo1@gmail.com</a>.
 
 
 <p>Thanks for visiting.</p>
 
-<span id="a">sony@Onyimbo</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">sony@Lomo</span>:<span id="b">~</span><span id="c">$</span> exit
 
-<span id="a">sony@Onyimbo</span>:<span id="b">~</span><span id="c">$</span>
+<span id="a">sony@Lomo</span>:<span id="b">~</span><span id="c">$</span>
